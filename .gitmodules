@@ -1,0 +1,8 @@
+[submodule "plecamer"]
+	path = plecamer
+	url = git@git.vauxoo.com:Vauxoo/plecamer.git
+	branch = 13.0
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:Vauxoo/sh-tools.git
+	branch = 13.0

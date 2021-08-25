@@ -6,3 +6,7 @@
 	path = sh-tools
 	url = git@git.vauxoo.com:Vauxoo/sh-tools.git
 	branch = 13.0
+[submodule "account_reconcile_partial"]
+	path = account_reconcile_partial
+	url = git@git.vauxoo.com:vauxoo/account_reconcile_partial.git
+	branch = 13.0

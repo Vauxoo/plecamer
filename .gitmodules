@@ -11,3 +11,7 @@
 	url = git@git.vauxoo.com:vauxoo/mexico-document.git
 	branch = 13.0
 
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:vauxoo/mexico.git
+	branch = 13.0

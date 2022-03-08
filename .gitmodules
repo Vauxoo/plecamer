@@ -6,3 +6,8 @@
 	path = account_reconcile_partial
 	url = git@git.vauxoo.com:vauxoo/account_reconcile_partial.git
 	branch = 13.0
+[submodule "mexico-document"]
+	path = mexico-document
+	url = git@git.vauxoo.com:vauxoo/mexico-document.git
+	branch = 13.0
+

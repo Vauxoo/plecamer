@@ -18,3 +18,7 @@
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
 	branch = 13.0
+[submodule "l10n-mx-currency-rate-live-non-usd"]
+	path = l10n-mx-currency-rate-live-non-usd
+	url = git@git.vauxoo.com:mexico/l10n-mx-currency-rate-live-non-usd.git
+	branch = 13.0

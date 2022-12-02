@@ -1,7 +1,7 @@
 [submodule "plecamer"]
 	path = plecamer
 	url = git@git.vauxoo.com:Vauxoo/plecamer.git
-	branch = 13.0
+	branch = 15.0
 [submodule "account_reconcile_partial"]
 	path = account_reconcile_partial
 	url = git@git.vauxoo.com:vauxoo/account_reconcile_partial.git
@@ -9,16 +9,16 @@
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
-	branch = 13.0
+	branch = 15.0
 [submodule "mexico-document"]
 	path = mexico-document
 	url = git@git.vauxoo.com:vauxoo/mexico-document.git
-	branch = 13.0
+	branch = 15.0
 [submodule "edi-document"]
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
-	branch = 13.0
+	branch = 15.0
 [submodule "l10n-mx-currency-rate-live-non-usd"]
 	path = l10n-mx-currency-rate-live-non-usd
 	url = git@git.vauxoo.com:mexico/l10n-mx-currency-rate-live-non-usd.git
-	branch = 13.0
+	branch = 15.0

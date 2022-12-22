@@ -2,10 +2,10 @@
 	path = plecamer
 	url = git@git.vauxoo.com:Vauxoo/plecamer.git
 	branch = 15.0
-[submodule "account_reconcile_partial"]
-	path = account_reconcile_partial
-	url = git@git.vauxoo.com:vauxoo/account_reconcile_partial.git
-	branch = 13.0
+[submodule "account-reconcile-partial"]
+	path = account-reconcile-partial
+	url = git@git.vauxoo.com:vauxoo/account-reconcile-partial.git
+	branch = 15.0
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git

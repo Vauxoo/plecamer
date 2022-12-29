@@ -4,8 +4,8 @@
 	branch = 15.0
 [submodule "account-reconcile-partial"]
 	path = account-reconcile-partial
-	url = git@git.vauxoo.com:vauxoo/account-reconcile-partial.git
-	branch = 15.0
+	url = git@git.vauxoo.com:vauxoo-dev/account-reconcile-partial.git
+	branch = 15.0-mig-arp-LuisMzz
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git

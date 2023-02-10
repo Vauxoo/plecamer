@@ -22,3 +22,7 @@
 	path = l10n-mx-currency-rate-live-non-usd
 	url = git@git.vauxoo.com:mexico/l10n-mx-currency-rate-live-non-usd.git
 	branch = 15.0
+[submodule "account-payment-split"]
+	path = account-payment-split
+	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
+	branch = 15.0

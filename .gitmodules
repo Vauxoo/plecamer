@@ -26,3 +26,7 @@
 	path = account-payment-split
 	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
 	branch = 15.0
+[submodule "helpdesk"]
+	path = helpdesk
+	url = git@github.com:Vauxoo/helpdesk.git
+	branch = 15.0

@@ -30,3 +30,11 @@
 	path = l10n-mx-edi-related-documents
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-related-documents.git
 	branch = 19.0
+[submodule "account-payment-split"]
+	path = account-payment-split
+	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
+	branch = 19.0
+[submodule "l10n-mx-edi-payment-split"]
+	path = l10n-mx-edi-payment-split
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-payment-split.git
+	branch = 19.0

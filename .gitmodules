@@ -1,7 +1,7 @@
 [submodule "plecamer"]
 	path = plecamer
 	url = git@git.vauxoo.com:Vauxoo/plecamer.git
-	branch = 19.0-mig-plecamer
+	branch = 19.0
 [submodule "mexico-document"]
 	path = mexico-document
 	url = git@git.vauxoo.com:vauxoo/mexico-document.git
